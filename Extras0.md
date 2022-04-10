@@ -8,11 +8,11 @@ shipgo是个下单网站，还挺好用的，联系的是fedex，可以邮寄行
 纸箱子从amazon上买的，这个，尺寸和质量都还不错，我因为考虑自己一个女生的体力确实有限，所以没有买很大的。
 下面这个大的，我只用了一个。
 
-![alt text](https://github.com/annadeer/Literature-Majored-SWE/blob/main/pic/large-moving.jpg)
+![alt text](https://github.com/annadeer/literature-majored-SWE/blob/main/pic/large-moving.jpg)
 
 这个中号的，我用了十个。这个箱子的实际感性大小：一个枕头一个被子，满了。
 
-![alt text](https://github.com/annadeer/Literature-Majored-SWE/blob/main/pic/medium-moving.jpg)
+![alt text](https://github.com/annadeer/literature-majored-SWE/blob/main/pic/medium-moving.jpg)
 
 家里pickup我叫了三次fedex，一次ups。先用的ups，ups确实便宜一些，app和网站也好用很多，我最后搬家的效果也不错，但有些人说ups有不少可怕的故事，所以后来就都用的fedex home delivery，其实价格也还好，但就是网站实在是太难用了，我也不是很确定我的pickup schedule成功没有，而且它只能提前两天预约（用shipgo就完全没有这个担心啦），但fedex整体风评比较好，那就凑合吧。另外贵重的物品，比如当时公司给我寄了一个巨大的屏幕，这个我确实不敢给ups运，也是用的fedex，但因为上班要用，所以用的真的快递 - 这里要注意，fedex的home delivery是Ground来pickup，express是express pickup，工作人员的帽子和制服上面标得很清楚，要注意看，不确定就问一下。
 
@@ -20,7 +20,7 @@ shipgo是个下单网站，还挺好用的，联系的是fedex，可以邮寄行
 
 我还随身带了猫咪。
 Sturdi的这个猫包完美符合united的航班座位下空间尺寸，完全无异味，有拉链锁，可机洗，很轻便，可以套在行李箱上。我猫超级讨厌猫包，后来经过一段时间的训练（和药物作用）还是顺利进去了。
-![alt text](https://github.com/annadeer/Literature-Majored-SWE/blob/main/pic/%E7%8C%AB%E5%8C%85.jpg)
+![alt text](https://github.com/annadeer/literature-majored-SWE/blob/main/pic/%E7%8C%AB%E5%8C%85.jpg)
 
 
 旅行前一天，我vet给猫买了一包CBD(大麻二酚）。本来想要加巴喷丁来着，兽医说加巴喷丁没有CBD安全，CBD更自然一些。我本来以为会没什么用。。不，旅行当天药劲一上来，猫可老实了，任人摆布。而且据说CBD没有抗药性，可以多次使用，当然要看好剂量，我那包CBD是给狗吃的，按照体重，我猫一天只能吃半粒。
